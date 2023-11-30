@@ -1,4 +1,4 @@
-Next Release is coming 11/3/2023!!
+**Releases will becoming out every other month starting December 1st 2023**
 
 
 # AppDHub-Confluence
